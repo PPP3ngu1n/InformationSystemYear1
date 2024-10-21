@@ -29,7 +29,9 @@ TODO: What are the main risks of this project?
 -	Data Breach may occur as it requires sensitive data from the user.
 -	Users may not want to use this app as it is not engaging enough.
 -	Need to ensure the safety of the toilets, the toilets aren’t in a closed area with potential risks to the user.
- 
+
+
+ 
 
 
 ## Project Scope
