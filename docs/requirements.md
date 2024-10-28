@@ -47,15 +47,15 @@ TODO: Describe each use case (at least one per team member).
 
 // Owen //
 
-| Use Case 1 | Crime Prevention | 
+| Use Case 1 | Community Feedback | 
 | -------------------------------------- | ------------------- |
-| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
-| **Actors** | TODO: List of actors involved in use case |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
-| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
-| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
-| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
+| **Description** | Allowing residents to suggest locations on where they feel unsafe |
+| **Actors** | Public Member and The App Creator |
+| **Assumptions** | Assumes that everyone haves a way to access to a smart phone and computers </td></tr>
+| **Steps** | Public Member uses an in-app feature to request some CCTV's at the given location |
+| **Variations** | Feedback Submission requests can be done different ways, done by email, phone calls and websites aswell |
+| **Non-functional** | The app should be usable by everyone and no limitations, Data Privacy and Protection |
+| **Issues** | If no one provides feedback then the data on where the CCTV needs to be installed is not going to go through |
 
 TODO: Your Use-Case diagram should include all use-cases.
 
