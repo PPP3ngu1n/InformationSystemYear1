@@ -14,6 +14,8 @@ As the app creators, I want to create a app that ensures safety to the members o
 
 As a Councillor I want to ensure the safey of the civillians so that there will be more visitors to the city. 
 
+As a Secuirty guard I want to make patrols effiecient and effective for the public so that I am able to effectively tackle crimes in more dangerous areas.
+
 ### Actors
 TODO: List and describe the actors/users for this product.
 
@@ -29,6 +31,9 @@ TODO: List and describe the actors/users for this product.
 
 - Council
   - Finds Areas that are not covered very well or little coverages and adds CCTV
+ 
+- Security Guard
+  - 
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
