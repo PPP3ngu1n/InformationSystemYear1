@@ -6,8 +6,12 @@
 TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
     Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
 
+// As a dog walker I would like to find the safest streets to where I am least likely to find my dog.  
+
 ### Actors
 TODO: List and describe the actors/users for this product.
+
+// 
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
