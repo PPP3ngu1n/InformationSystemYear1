@@ -6,12 +6,29 @@
 TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
     Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
 
-// As a dog walker I would like to find the safest streets to where I am least likely to find my dog.  
+// Owen //  
+
+As a member of the public I would want to see the places of where the CCTV's are located so that I can provide locations to where CCTV could be placed, in specific areas that feel unsafe.
+
+As the app creators, I want to create a app that ensures safety to the members of the public so that it allows access to everyone on where CCTV's are.
+
+As a Councillor I want to ensure the safey of the civillians so that there will be more visitors to the city. 
 
 ### Actors
 TODO: List and describe the actors/users for this product.
 
-// 
+// Owen //
+- Public Member
+  - To access the CCTV's and see where they are placed.
+  - To Provide feedback on where they think a CCTV should be placed.
+  - Raise awareness to crime prevention
+ 
+- App Creator
+  - Managing new and up-to-date information on where the CCTV are.
+  - Making sure there is data privacy for all users
+
+- Council
+  - Finds Areas that are not covered very well or little coverages and adds CCTV
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
@@ -28,6 +45,17 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
+// Owen //
+
+| Use Case 1 | Crime Prevention | 
+| -------------------------------------- | ------------------- |
+| **Description** | TODO: Goal to be achieved by use case and sources for requirement |
+| **Actors** | TODO: List of actors involved in use case |
+| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
+| **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
+| **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
+| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
+| **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
 TODO: Your Use-Case diagram should include all use-cases.
 
