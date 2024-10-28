@@ -5,9 +5,8 @@
 ### Problem statement
 TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
 
-The use of public toilets is low due to them being hidden; this app will allow everyone in the public to use the toilet without the issue of difficulties finding it.
+// Owen // There are too much crimes happening on the streets of Bristol, providing the public with CCTV locations may allow the public to be wary of the places that are in the dark.
 
-The NHS also advised to Empty out your bladder every 3-4 hours. Prolonging the urge to pee can stress your bladder muscles and increase the chance of getting an infection. [1]
 
 ### Business benefits
 TODO: List high-level benefits that this product will provide.
