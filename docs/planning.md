@@ -14,7 +14,8 @@ TODO: List high-level benefits that this product will provide.
 - Supports crime prevention by maximising surveillance coverages
 - Helps other companies to place new CCTV's in other areas, where there is less coverage
 - Helps companies to locate the correct CCTV if a crime was to happen to provide easier times and cases.
-- 
+- Making the brand to be trusted partner in public safety enhancing public image
+-	Pushing for a smart city
 
 ### Options Considered
 TODO: What are some other customer options or leading products that address the same needs?
