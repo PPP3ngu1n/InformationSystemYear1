@@ -11,10 +11,10 @@ TODO: Replace the example text like this with text that describes your project. 
 ### Business benefits
 TODO: List high-level benefits that this product will provide.
 
-- Collaborating with local businesses with a public restroom could increase people walking around more often to these businesses, creating - more visitors to the business providing more potential customers.
-- Collaborating with travel industries could help the industry with finding clean and safer public toilets.
-- Having users provide feedback to the app, making the specific places more appealing for others to visit.
-- If this app was to expand over to different countries it could be easy to add into the app.
+- Supports crime prevention by maximising surveillance coverages
+- Helps other companies to place new CCTV's in other areas, where there is less coverage
+- Helps companies to locate the correct CCTV if a crime was to happen to provide easier times and cases.
+- 
 
 ### Options Considered
 TODO: What are some other customer options or leading products that address the same needs?
