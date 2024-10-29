@@ -21,6 +21,7 @@ TODO: List high-level benefits that this product will provide.
 TODO: What are some other customer options or leading products that address the same needs?
 
 - The news could show where recent crimes have happened which could make people avoid that certain area already.
+- Ring Door Bell offers security camera that include motion detection which can survey the neighbourhood.
 - 
 ### Expected Risks
 TODO: What are the main risks of this project?
