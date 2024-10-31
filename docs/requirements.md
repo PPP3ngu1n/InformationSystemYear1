@@ -33,7 +33,7 @@ TODO: List and describe the actors/users for this product.
   - Finds Areas that are not covered very well or little coverages and adds CCTV
  
 - Security Guard
-  - 
+  - Finds area that requires more patrol due to the lack of CCTV cameras
 
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
