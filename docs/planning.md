@@ -35,4 +35,4 @@ TODO: What are the main risks of this project?
 
 ## Project Scope
 
-![Insert your Context Diagram Here](images/context.png)
+![Insert your Context Diagram Here](images/newContext.png)
