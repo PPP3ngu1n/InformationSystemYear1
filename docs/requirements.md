@@ -8,13 +8,15 @@ TODO: Write brief user stories to explain how various actors would interact with
 
 // Owen //  
 
-As a member of the public I would want to see the places of where the CCTV's are located so that I can provide locations to where CCTV could be placed, in specific areas that feel unsafe.
+As a member of the public I would want to see the places of where the CCTV's are located so that I can provide locations to where CCTV could be placed, in specific areas that feel unsafe. In addition to this as a member of public i would like to know where the locations of CCTVs are placed so that I could have reassurance that I owuld have a safer journey.
 
-As the app creators, I want to create a app that ensures safety to the members of the public so that it allows access to everyone on where CCTV's are.
+As the app creators, I want to create a app that ensures safety to the members of the public so that it allows access to everyone on where CCTV's are. I also would like to make the app easily available and straight to the point so that anyone of any age can find it straightforward to use. 
 
 As a Councillor I want to ensure the safey of the civillians so that there will be more visitors to the city. 
 
 As a Secuirty guard I want to make patrols effiecient and effective for the public so that I am able to effectively tackle crimes in more dangerous areas.
+
+As police officers, i would want to use the app to know which areas do not have many CCTV cameras so that I could focus more on those areas to prevent more crimes from happening.
 
 ### Actors
 TODO: List and describe the actors/users for this product.
@@ -61,6 +63,16 @@ TODO: Describe each use case (at least one per team member).
 | **Variations** | Feedback Submission requests can be done different ways, done by email, phone calls and websites aswell |
 | **Non-functional** | The app should be usable by everyone and no limitations, Data Privacy and Protection |
 | **Issues** | If no one provides feedback then the data on where the CCTV needs to be installed is not going to go through |
+
+| Use Case 2 | Routing |
+| -------------------------------------- | ------------------- |
+| **Description** | Allowing the public to create a route that helps them get to a place safer |
+| **Actors** | Public Member |
+| **Assumptions** | Assumes that there everyone has similar routes home and has access to mobile data to access it outside </td></tr>
+| **Steps** | Public members use an in-app feature that uses google maps to create a route to allow a safer journey |
+| **Variations** |
+| **Non-functional** | The app should be easy to use so that people all ages can use the app. |
+| **Issues** | CCTVs are not everywhere so people can not make a route for anywhere across the city |
 
 TODO: Your Use-Case diagram should include all use-cases.
 
