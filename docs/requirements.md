@@ -8,7 +8,7 @@ TODO: Write brief user stories to explain how various actors would interact with
 
 // Owen //  
 
-As a member of the public I would want to see the places of where the CCTV's are located so that I can provide locations to where CCTV could be placed, in specific areas that feel unsafe. In addition to this as a member of public i would like to know where the locations of CCTVs are placed so that I could have reassurance that I owuld have a safer journey.
+As a member of the public I would want to see the places of where the CCTV's are located so that I can provide locations to where CCTV could be placed, in specific areas that feel unsafe. In addition to this as a member of public i would like to know where the locations of CCTVs are placed so that I could have reassurance that I would have a safer journey.
 
 As the app creators, I want to create a app that ensures safety to the members of the public so that it allows access to everyone on where CCTV's are. I also would like to make the app easily available and straight to the point so that anyone of any age can find it straightforward to use. 
 
