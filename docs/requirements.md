@@ -85,6 +85,10 @@ TODO: create a list of functional requirements.
     Give each functional requirement a unique ID. e.g. FR1, FR2, ...
     Indicate which UC the requirement comes from.
 
+    - FR1: The system shall allow the members of public to know the locations of all of the CCTVs in a city.
+    - FR2: The system shall allow the members of public to give feedback to allow the app creator to help improve the system.
+    - FR3: The system shall allow the members of public to create a route based of knowing where CCTVs are for a safer journey.
+
 
 ### Non-Functional Requirements
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
