@@ -27,7 +27,7 @@ TODO: What are some other customer options or leading products that address the 
 TODO: What are the main risks of this project?
 
 - Could allow criminals to commit crimes where CCTVs are not in sight of
-- 
+- Requires a lot of feedback from the members of public to know where to put future CCTVs
 
 
  
