@@ -37,6 +37,9 @@ TODO: List and describe the actors/users for this product.
 - Security Guard
   - Finds area that requires more patrol due to the lack of CCTV cameras
 
+- Police Officers
+  - Focus on areas that have less CCTVs to help prevent more crimes from taking place.
+
 ### Use Cases
 TODO: Describe each use case (at least one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
@@ -64,13 +67,16 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | The app should be usable by everyone and no limitations, Data Privacy and Protection |
 | **Issues** | If no one provides feedback then the data on where the CCTV needs to be installed is not going to go through |
 
+
+Pujan 
+
 | Use Case 2 | Routing |
 | -------------------------------------- | ------------------- |
 | **Description** | Allowing the public to create a route that helps them get to a place safer |
 | **Actors** | Public Member |
 | **Assumptions** | Assumes that there everyone has similar routes home and has access to mobile data to access it outside </td></tr>
 | **Steps** | Public members use an in-app feature that uses google maps to create a route to allow a safer journey |
-| **Variations** |
+| **Variations** | The members of public can create a route by entering a start location and an end location or they can use the map to see all location of CCTVs to make their own journey |
 | **Non-functional** | The app should be easy to use so that people all ages can use the app. |
 | **Issues** | CCTVs are not everywhere so people can not make a route for anywhere across the city |
 
