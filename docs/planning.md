@@ -5,7 +5,7 @@
 ### Problem statement
 TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
 
-// Owen // There are too many crimes happening on the streets of Bristol, providing the public with CCTV locations may allow the public to be wary of the places that are in the dark. This can allow a drop in crime rates in Bristol as people can be in sight of a cctv camera which allows them to have a safer joruney to wherever they need to go especially at night. Knife crime is much higher than it was 10 years ago so with this app we can decrease the level of knife crime by allowing citizens to know where each CCTV camera are to plan a safer journey. In addition to this, knowing where all of the CCTV cameras are could allow the police department to focus on areas that are not covered by CCTVs incase crimes still occur in those places.
+// Owen // There are too many crimes happening on the streets of Bristol, providing the public with CCTV locations may allow the public to be wary of the places that are in the dark. This can allow a drop in crime rates in Bristol as people can be in sight of a cctv camera which allows them to have a safer journet to wherever they need to go especially at night. Knife crime is much higher than it was 10 years ago so with this app we can decrease the level of knife crime by allowing citizens to know where each CCTV camera are to plan a safer journey. In addition to this, knowing where all of the CCTV cameras are could allow the police department to focus on areas that are not covered by CCTVs incase crimes still occur in those places.
 
 
 ### Business benefits
