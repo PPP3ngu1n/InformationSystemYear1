@@ -12,7 +12,7 @@ As a member of the public I would want to see the places of where the CCTV's are
 
 As the app creators, I want to create a app that ensures safety to the members of the public so that it allows access to everyone on where CCTV's are. I also would like to make the app easily available and straight to the point so that anyone of any age can find it straightforward to use. 
 
-As a Councillor I want to ensure the safey of the civillians so that there will be more visitors to the city. 
+As a Councillor I want to ensure the safey of the civillians so that there will be more visitors to the city. This could benefit other businesses as a safer city would bring in more customers.
 
 As a Secuirty guard I want to make patrols effiecient and effective for the public so that I am able to effectively tackle crimes in more dangerous areas.
 
