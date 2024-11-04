@@ -67,7 +67,7 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | The app should be usable by everyone and no limitations, Data Privacy and Protection |
 | **Issues** | If no one provides feedback then the data on where the CCTV needs to be installed is not going to go through |
 
-![Owens Robustness Diagram](images/RobustnessOwen.png)
+![Owens Robustness Diagram](images/RobustenessOwen.png)
 
 Pujan 
 
