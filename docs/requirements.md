@@ -101,4 +101,9 @@ TODO: create a list of functional requirements.
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
 Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
+-NFR1: The pins that show the locations of CCTVs should load onto the map in less than 5 seconds
+-NFR2: The route selected should be generated in less than 4 seconds
+-NFR3: The feedback from customer's should be sent instantly to the app creators
+-NFR4: The app should show all CCTV location within a 1 mile radius.
+
 Indicate which UC the requirement comes from.
