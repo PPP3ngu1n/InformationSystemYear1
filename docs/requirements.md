@@ -92,18 +92,18 @@ TODO: create a list of functional requirements.
     Give each functional requirement a unique ID. e.g. FR1, FR2, ...
     Indicate which UC the requirement comes from.
 
-    - FR1: The system shall allow the members of public to know the locations of all of the CCTVs in a city.
-    - FR2: The system shall allow the members of public to give feedback to allow the app creator to help improve the system.
-    - FR3: The system shall allow the members of public to create a route based of knowing where CCTVs are for a safer journey.
+- FR1: The system shall allow the members of public to know the locations of all of the CCTVs in a city.
+- FR2: The system shall allow the members of public to give feedback to allow the app creator to help improve the system.
+- FR3: The system shall allow the members of public to create a route based of knowing where CCTVs are for a safer journey.
 
 
 ### Non-Functional Requirements
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
 Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
--NFR1: The pins that show the locations of CCTVs should load onto the map in less than 5 seconds
--NFR2: The route selected should be generated in less than 4 seconds
--NFR3: The feedback from customer's should be sent instantly to the app creators
--NFR4: The app should show all CCTV location within a 1 mile radius.
+- NFR1: The pins that show the locations of CCTVs should load onto the map in less than 5 seconds
+- NFR2: The route selected should be generated in less than 4 seconds
+- NFR3: The feedback from customer's should be sent instantly to the app creators
+- NFR4: The app should show all CCTV location within a 1 mile radius.
 
 Indicate which UC the requirement comes from.
