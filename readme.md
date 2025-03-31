@@ -5,4 +5,4 @@
 3. [Design](docs/design.md)
 4. [Implementation](docs/implementation.md)
 5. [Testing](docs/testing.md)
-6. [Code](docs/code.md)
+6. [Code](docs/code)
