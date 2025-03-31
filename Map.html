@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SeeSeeTV locator</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <script src="JavaScript/index.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMx__PFQMb-mmLMWnAD2WgEil0lLQvSLg&callback=initMap"></script>
+</head>
+
+<body>
+
+        <div id="navbar">
+            <a href=Main.html id="logo">SeeSeeTV</a>
+            <div id="navbar-mid">
+                <a href="Main.html">Home</a>
+                <a href="Map.html">Maps</a>
+                <a href="Request.html">Request</a>
+            </div>
+        </div>
+
+        <div id="mainMap">
+            <div id="data-container">
+                <h2>Nearby CCTV's</h2>
+                <div id="api-list-container">
+                    <ul id="api-data"></ul> <!-- This is where the list of data will be shown -->
+                </div>
+            </div>
+
+
+            <div id="map"></div>
+        </div>
+</body>
+</html>
