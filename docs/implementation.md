@@ -62,7 +62,7 @@ provide a table listing the number of jslint warnings/reports for each module.
 #### Event Driven
 - Event listeners for geolocation updates, button clicks and fetch API responses 
 
-![Insert your component Diagram here](images/component.png)
+![Insert your component Diagram here](images/ComponentDiagram.png)
 
 ## Bristol Open Data API
 TODO: Document each query to Bristol Open Data
