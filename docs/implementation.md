@@ -1,8 +1,6 @@
 # Implementation
 
 ## Introduction
-TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
-
 ### System Implemented
 SeeSeeTV Locator is a web-based application designed to help users locate nearby CCTV cameras using a map interface. The application utilises Google Maps API for map rendering and geolocation, while it fetches real-time CCTV data from an external API provided by Bristol Open Data. This allows users to easily visualise the location of surveillnce cameras in their area.
 
@@ -43,10 +41,7 @@ TODO: Provide an outline of the project folder structure and the role of each fi
 provide a table listing the number of jslint warnings/reports for each module.
 
 ## Software Architecture
-TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
-
 ### Major Components:
-
 #### Frontend
   - Provides UI for users to view the map, search for nearby CCTV, and see info about each location
   - Uses Google Maps API for map rendering and user location Tracking
@@ -76,8 +71,6 @@ TODO: Document each query to Bristol Open Data
 TODO: Repeat as necessary
 
 # User guide
-TODO: Explain how each use-case works by providing step-by-step screenshots for each use-case. This should be based on a tested scenario.
-
 1. Viewing the Homepage
    - Steps:
    1. Open the browser and go to the SeeSeeTV locator website
