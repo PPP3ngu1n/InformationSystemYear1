@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    padding: 10px 10px;
+    transition: 0.4s;
+    width: 100%;
+    top: 0;
+    z-index: 99;
+}
+
+#navbar a {
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+#navbar #logo {
+    font-size: 35px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+
+#navbar a:hover {
+    color: black;
+    background-color: grey;
+}
+
+#navbar-mid a.active {
+    background-color: #c7c7c9;
+    color: black;
+    pointer-events: none;
+}
+
+#navbar-mid{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    gap: 10px;
+}
+
+#navbar-mid a{
+    background-color: #6f48ec;
+    color: white;
+    width: 120px;
+    text-align: center;
+    padding: 10px;
+}
+
+#map{
+    width: 950px;
+    height: 850px;
+}
+
+#mainMap{
+    height: 85%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#data-container {
+    margin-top: 20px;
+    max-width: 1000px; /* Optional: Set the max width of the container */
+    margin: 0 auto;
+    border: 2px solid black; /* Blue border with 3px width around the entire container */
+    padding: 10px;
+    border-radius: 10px; /* Optional: Rounded corners for the outer container */
+}
+
+#api-list-container {
+    height: 850px;  /* Set the height */
+    width: 600px;   /* Make the list container take up the full width of the parent */
+    overflow-y: scroll; /* Vertical scrolling */
+    padding: 10px;
+    background-color: #f9f9f9; /* Background color */
+    border-radius: 5px; /* Optional: Rounded corners for the inner scrollable box */
+}
+
+#api-data {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.api-item {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.api-item strong {
+    color: #333;
+}
+
+.api-item em {
+    color: #888;
+}
