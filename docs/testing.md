@@ -11,12 +11,10 @@ Create a requirements traceability matrix to validate the completeness of the pr
 | ----------- | -------------- | --------- | ------ |
 
 TODO: Add rows for each test, current status is eg. pass/fail
-![Screenshot_3-4-2025_05649_127 0 0 1](https://github.com/user-attachments/assets/b10d0673-3036-4ae8-a2ec-8ce5ae8ceb88)
 
 Test Case 1: Makes sure that all CCTV locations show on the map 
 
 Test Case 2: Makes sure that all CCTV locations are the same in the real world
-![Screenshot_3-4-2025_44034_127 0 0 1](https://github.com/user-attachments/assets/7eb029ad-3361-4e8b-90e1-3aeaecd6399c)
 
 Test Case 3: Allows Users to send feedbck back
 Test Case 4: Makes sure a route can be generated
