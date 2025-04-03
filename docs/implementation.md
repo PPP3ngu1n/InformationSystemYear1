@@ -77,10 +77,8 @@ provide a table listing the number of jslint warnings/reports for each module.
 ![Insert your component Diagram here](images/ComponentDiagram.png)
 
 ## Bristol Open Data API
-TODO: Document each query to Bristol Open Data
 
 ![UML Class diagrams representing JSON query results](images/BOPClass1.png)
-TODO: Repeat as necessary
 
 # User guide
 1. Viewing the Homepage
