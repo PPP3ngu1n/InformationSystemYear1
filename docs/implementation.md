@@ -91,6 +91,7 @@ TODO: Repeat as necessary
       - Maps
       - Requests
    3. Verify the link is highlighted as active page
+![Screenshot_3-4-2025_05649_127 0 0 1](https://github.com/user-attachments/assets/b10d0673-3036-4ae8-a2ec-8ce5ae8ceb88)
 
 2. Viewing nearby CCTV camera on the Map
    - Steps:
