@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SeeSeeTV locator</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <script src="JavaScript/index.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMx__PFQMb-mmLMWnAD2WgEil0lLQvSLg&callback=initMap"></script>
+</head>
+
+<body>
+
+<div id="navbar">
+    <a href=Main.html id="logo">SeeSeeTV</a>
+    <div id="navbar-mid">
+        <a href="Main.html">Home</a>
+        <a href="Map.html">Maps</a>
+        <a href="Request.html">Request</a>
+    </div>
+</div>
+<div class="RequestForm">
+    <div class="RequestInside">
+    <p>Do you want to make a request?</p>
+    <input type="checkbox" id="Yes" name="Yes"> Yes <br>
+    <input type="checkbox" id="No" name="No"> No </div>
+    <div class="RequestInside">
+        <p>If so, where would you like a CCTV to be placed?</p>
+        <label for="location">Location:</label> <br>
+        <textarea id="location"></textarea> </div>
+    <div class="RequestInside">
+        <p>Why do you want it there?</p>
+        <textarea></textarea>
+    </div>
+    <button class="Sub">Submit</button>
+</div>
+
+
+</body>
+</html>
