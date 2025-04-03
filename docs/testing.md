@@ -4,18 +4,8 @@ TC# Testing
 TODO: Describe any manual and automated (unit) tests. Uniquely identify each test case. Include prerequisites and test data.
 
 Test Runs
-TODO: For each test described above, indicate the current status. 
-Create a requirements traceability matrix to validate the completeness of the product.
-
-| Use-Case ID | Requirement ID | Test Case | Status |
-| ----------- | -------------- | --------- | ------ |
-
-TODO: Add rows for each test, current status is eg. pass/fail
-
 Test Case 1: Makes sure that all CCTV locations show on the map 
-
 Test Case 2: Makes sure that all CCTV locations are the same in the real world
-
 Test Case 3: Allows Users to send feedbck back
 Test Case 4: Makes sure a route can be generated
 Test Case 5: Makes sure that the pin location of CCTVs load up in less than 5 seconds
