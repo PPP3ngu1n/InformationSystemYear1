@@ -47,7 +47,7 @@ provide a table listing the number of jslint warnings/reports for each module.
 | File | Role |
 | ---- | ---- |
 | **CSS/style.css** | To add styling to the pages |
-| **Img/CCTV.jpg**  | Adds an image |
+| **Img/CCTV.jpg**  | Adds an image which can be seen as a logo for the website |
 | **Main.html** | Is the main page of the website |
 | **Map.html** | Is the map page for the website |
 | **Request.html** | Is the request page for the website |
