@@ -19,6 +19,7 @@ Test Case 2: The image will load up.
 ![Screenshot_3-4-2025_44034_127 0 0 1](https://github.com/user-attachments/assets/7eb029ad-3361-4e8b-90e1-3aeaecd6399c)
 
 Test Case 3: The map should load up in less than 5 seconds.
+Test Case 4: The system should show all of the CCTV on the map.
 
 
 | Use-Case ID | Requirement ID | Test Case | Status |
