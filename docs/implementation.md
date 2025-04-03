@@ -40,6 +40,9 @@ While the application is functional, there has been some issues we have identifi
 TODO: Provide an outline of the project folder structure and the role of each file within it.
 provide a table listing the number of jslint warnings/reports for each module.
 
+| File                | Warnings | Error | Descriptions |
+| JavaScript/index.js |    10    |   0   | Line is longer than 80 characters,  [JSLint was unable to finish] Wrap the parameter before '=>' in parens, Use 'function (...)', not '(...) =>' when arrow functions become too complex.|
+
 ## Software Architecture
 ### Major Components:
 #### Frontend
