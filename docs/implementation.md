@@ -44,7 +44,15 @@ provide a table listing the number of jslint warnings/reports for each module.
 | ------------------- | -------- | ----- | ------------ |
 | **JavaScript/index.js** |    10    |   0   | Line is longer than 80 characters,  [JSLint was unable to finish] Wrap the parameter before '=>' in parens, Use 'function (...)', not '(...) =>' when arrow functions become too complex.|
 
-## Software Architecture
+| File | Role |
+| ---- | ---- |
+| **CSS/style.css** | To add styling to the pages |
+| **Img/CCTV.jpg**  | Adds an image |
+| **Main.html** | Is the main page of the website |
+| **Map.html** | Is the map page for the website |
+| **Request.html** | Is the request page for the website |
+
+### Software Architecture
 ### Major Components:
 #### Frontend
   - Provides UI for users to view the map, search for nearby CCTV, and see info about each location
