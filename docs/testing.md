@@ -1,4 +1,4 @@
-# Testing
+TC# Testing
 
 ## Test Plan
 TODO: Describe any manual and automated (unit) tests. Uniquely identify each test case. Include prerequisites and test data.
@@ -24,5 +24,12 @@ Test Case 4: The system should show all of the CCTV on the map.
 
 | Use-Case ID | Requirement ID | Test Case | Status |
 | ----------- | -------------- | --------- | ------ |
-|  |
+| **TC FR1 01** | FR1 | Verifies that all of the CCTV locations show on the map | Pass |
+| **TC FR1 02** | FR1 | Verifies that all CCTV locations are true in the real world | Pass |
+| **TC FR2 01** | FR2 | Ensures that feedback can be sent back by users | Pass | 
+| **TC FR3 01** | FR3 | Verifies if a route can be generated from start to end | Fail |
+| **TC NFR1 01** | NFR1 | Ensures that all CCTV Pins load up in less than 5 seconds | Pass |
+| **TC NFR2 01** | NFR2 | Makes sure that the safest route is generated in less than 4 seconds | Fail |
+| **TC NFR3 01** | NFR3 | Makes sure that the feedback is sent instantly | Pass |
+| **TC NFR4 01** | NFR4 | Ensures that all CCTVs within a 1-mile radius shows on the map | Pass |
 
