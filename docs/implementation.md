@@ -91,7 +91,7 @@ TODO: Repeat as necessary
       - Maps
       - Requests
    3. Verify the link is highlighted as active page
-![Home Page](https://github.com/user-attachments/assets/b10d0673-3036-4ae8-a2ec-8ce5ae8ceb88)
+![Home Page](images/homepage.png)
 
 2. Viewing nearby CCTV camera on the Map
    - Steps:
@@ -100,14 +100,14 @@ TODO: Repeat as necessary
    3. Map will load, showing current loaction with a blue marker
    4. Red markers will appear representing nearby CCTV
    5. Hovering or clicking red markers to view more details
-![Map Page](https://github.com/user-attachments/assets/7eb029ad-3361-4e8b-90e1-3aeaecd6399c)
+![Map Page](images/map.png)
 
 3. Viewing a List of Nearby CCTV Cameras
    - Steps:
    1. You will see a panel on the left labeled "Nearby CCTV" in Maps.
    2. It Fetches Data from the API and displays a list of the CCTV in the area sorted by closest
    3. Each item in the list includes camera location details
-![Map Page](https://github.com/user-attachments/assets/7eb029ad-3361-4e8b-90e1-3aeaecd6399c)
+![Map Page](images/map.png)
 
 4. Submitting a request
    - Steps:
