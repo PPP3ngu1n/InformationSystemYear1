@@ -81,9 +81,15 @@ TODO: Describe each use case (at least one per team member).
 | **Non-functional** | The app should be easy to use so that people all ages can use the app. |
 | **Issues** | CCTVs are not everywhere so people can not make a route for anywhere across the city |
 
+
+![RobustnessDiagramPujan](https://github.com/user-attachments/assets/cbaab777-1093-4b35-9752-fdac64b15346)
+
+
 TODO: Your Use-Case diagram should include all use-cases.
 
-![Insert your Use-Case Diagram Here](images/OwensUseCaseDiagram.png)
+![Insert your Use-Case Diagram Here](images/OwensUseCaseDiagram.png) //Owen//
+
+![IMG_0069](https://github.com/user-attachments/assets/73b91c69-ded0-43c4-9d14-f867a8f3339b) //Pujan//
 
 ## Software Requirements Specification
 ### Functional requirements
