@@ -6,12 +6,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: white;
+    background: rgb(240, 240, 240);
     padding: 10px 10px;
     transition: 0.4s;
     width: 100%;
     top: 0;
     z-index: 99;
+    margin-right: 10px;
 }
 
 #navbar a {
@@ -106,4 +107,86 @@
 
 .api-item em {
     color: #888;
+}
+
+.Textbox {
+    background-color: rgb(240, 240, 240);
+    width: 878px;
+    height: fit-content;
+    border-style: Solid;
+    font-size: large;
+    text-align: justify;
+    padding: 10px;
+}
+
+.SmallBox {
+    background-color:rgb(240, 240, 240);
+    width: 116px;
+    height: 25px;
+    margin-top: 20px;
+    border-style: Solid;
+    font-size: large;
+    font-weight: 900;
+    text-align: center;
+    padding: 5px;
+    margin-left: 45px;
+}
+
+.mainBody {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: fit-content;
+}
+
+.img {
+    width: 450px;
+    height: 350px;
+    margin-bottom: 0px;
+    background-color: rgb(240, 240, 240);
+}
+
+div.RightSide {
+    margin-bottom:50px
+}
+
+.Contacts {
+    border-style: Solid;
+    width: 80px;
+    background-color: rgb(240, 240, 240);
+}
+
+.Phone {
+    margin-left: 67.75%;
+    border-style: solid;
+    background-color: rgb(240, 240, 240);
+}
+
+.RequestForm {
+    margin: 30px auto;
+    border-style: solid;
+    border-radius: 5px;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+}
+
+.RequestInside {
+    margin-bottom: 20px;
+}
+textarea {
+    width: 100%;
+    height: 50px;
+}
+
+.Sub {
+    background-color: #6f48ec;
+    color: white;
+    text-align: center;  
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    height: 30px;
 }
