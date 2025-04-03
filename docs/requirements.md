@@ -3,8 +3,6 @@
 ## User Needs
 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
 
 // Owen //  
 
@@ -19,7 +17,6 @@ As a Secuirty guard I want to make patrols effiecient and effective for the publ
 As police officers, i would want to use the app to know which areas do not have many CCTV cameras so that I could focus more on those areas to prevent more crimes from happening.
 
 ### Actors
-TODO: List and describe the actors/users for this product.
 
 // Owen //
 - Public Member
@@ -41,9 +38,7 @@ TODO: List and describe the actors/users for this product.
   - Focus on areas that have less CCTVs to help prevent more crimes from taking place.
 
 ### Use Cases
-TODO: Describe each use case (at least one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
+
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
@@ -85,18 +80,12 @@ TODO: Describe each use case (at least one per team member).
 ![RobustnessDiagramPujan](https://github.com/user-attachments/assets/cbaab777-1093-4b35-9752-fdac64b15346)
 
 
-TODO: Your Use-Case diagram should include all use-cases.
-
 ![Insert your Use-Case Diagram Here](images/OwensUseCaseDiagram.png) //Owen//
 
 ![IMG_0069](https://github.com/user-attachments/assets/73b91c69-ded0-43c4-9d14-f867a8f3339b) //Pujan//
 
 ## Software Requirements Specification
 ### Functional requirements
-TODO: create a list of functional requirements. 
-    e.g. "The system shall ..."
-    Give each functional requirement a unique ID. e.g. FR1, FR2, ...
-    Indicate which UC the requirement comes from.
 
 - FR1: The system shall allow the members of public to know the locations of all of the CCTVs in a city.
 - FR2: The system shall allow the members of public to give feedback to allow the app creator to help improve the system.
@@ -104,8 +93,6 @@ TODO: create a list of functional requirements.
 
 
 ### Non-Functional Requirements
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
 
 - NFR1: The pins that show the locations of CCTVs should load onto the map in less than 5 seconds
 - NFR2: The route selected should be generated in less than 4 seconds
